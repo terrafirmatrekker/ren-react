@@ -29,7 +29,7 @@ const gatewayJS = useGatewayJS('testnet');
 Import the library:
 
 ```javascript
-import { getRenJS, getGatewayJS } from '@openzeppelin/network';
+import { getRenJS, getGatewayJS } from 'ren-react';
 ```
 
 Get `Web3Context`:
