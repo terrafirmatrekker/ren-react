@@ -1,2 +1,2 @@
 # ren-react
- React wrapper for RenJS and GAtewayJS
+ React wrapper for RenJS and GatewayJS
