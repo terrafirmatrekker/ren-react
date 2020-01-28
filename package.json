@@ -5,7 +5,7 @@
     "react": "^16.12.0"
   },
   "name": "ren-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React wrapper for RenJS and GatewayJS",
   "main": "index.js",
   "repository": "https://github.com/amcassetti/ren-react.git",
