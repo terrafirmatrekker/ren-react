@@ -41,7 +41,7 @@ const gatewayJS = getGatewayJS('testnet');
 
 ## Learn More
 
- * Try it out with our [Getting Started with RenJS](https://docs.renproject.io/developers/ren-sdk) Tutorial.
+ * Try it out with our [Getting Started with RenJS](https://renproject.github.io/ren-client-docs/ren-js/) Tutorial.
  * For detailed information on RenVM, take a look at our [Developer Center](https://renproject.io/developers) and [Github Wiki](https://github.com/renproject/ren/wiki).
 
 ## License
